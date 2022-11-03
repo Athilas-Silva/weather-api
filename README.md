@@ -1,2 +1,2 @@
 # weather-api
-Consumindo API do Open Weather Map
+ Consumindo API de clima do tempo
